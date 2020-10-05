@@ -3,17 +3,17 @@
 Exciting, isn't it? 🎉
 
 Next steps:
-1. Open your preferred terminal (or command prompt) and install the npm package by runnning the code:
+* Open your preferred terminal (or command prompt) and install the npm package by runnning the code:
  ```
  npm install -g omer-resume
  ```
  
-2. After installation is complete, type:
+* After installation is complete, type:
 ```
 omer-resume
 ```
 
-3. Press 'enter' to know more about me! 😄
+* Press 'enter' to know more about me! 😄
 
 ---
 
