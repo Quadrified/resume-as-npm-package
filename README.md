@@ -6,7 +6,6 @@ Next steps:
 1. Install the npm package by runnning the code:
  ```
  npm install -g omer-resume
- 
  ```
  
 2. After installation is completed type 
