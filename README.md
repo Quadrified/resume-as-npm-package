@@ -2,8 +2,15 @@
 
 Exciting, isn't it? 🎉
 
-Steps to install:
-
-    * ```npm install -g omer-resume
-      ```
-    * After installation is completed type omer-resume and press enter.
+Next steps:
+1. Install the npm package by runnning the code:
+ ```
+ npm install -g omer-resume
+ 
+ ```
+ 
+2. After installation is completed type 
+```
+omer-resume
+```
+and press enter.
