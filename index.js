@@ -23,7 +23,7 @@ function main() {
 
 function resumeHandler() {
   console.log(
-    "Hello, World! 👋🏻 I'm Omer Quadri, and welcome to my resume (npm style)!"
+    "Hello, World! I'm Omer Quadri, and welcome to my resume (npm style)!"
   );
   inquirer.prompt(resumePrompts).then((answer) => {
     if (answer.resumeOptions == 'Exit') {
