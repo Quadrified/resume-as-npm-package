@@ -12,7 +12,8 @@ Next steps:
 ```
 omer-resume
 ```
-and press 'enter' to know more about me! 😄
+
+3. Press 'enter' to know more about me! 😄
 
 ---
 
