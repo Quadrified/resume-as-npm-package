@@ -27,6 +27,7 @@ function resumeHandler() {
   );
   inquirer.prompt(resumePrompts).then((answer) => {
     if (answer.resumeOptions == 'Exit') {
+      console.clear();
       return;
     }
     var option = answer.resumeOptions;
