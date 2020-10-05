@@ -17,7 +17,7 @@ var resumePrompts = {
 
 function main() {
   console.log(" ");
-  console.log("Hello, World! 👋🏻 I'm Omer Quadri, and welcome to my resume!");
+  console.log("Hello, World! 👋🏻 I'm Omer Quadri, and welcome to my resume (npm style)!");
   console.log(" ");
   resumeHandler();
 }
