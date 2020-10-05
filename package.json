@@ -1,0 +1,30 @@
+{
+  "name": "omer-resume",
+  "version": "1.0.0",
+  "description": "Check out my resume as an npm module!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quadrified/resume-as-npm-package.git"
+  },
+  "keywords": [
+    "npm-resume",
+    "resume"
+  ],
+  "author": "Quadrified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quadrified/resume-as-npm-package/issues"
+  },
+  "homepage": "https://github.com/Quadrified/resume-as-npm-package#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
+  },
+  "bin": {
+    "omer-resume": "./index.js"
+  }
+}
