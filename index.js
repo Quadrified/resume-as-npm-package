@@ -49,6 +49,7 @@ function resumeHandler() {
           console.clear();
           resumeHandler();
         } else {
+          console.clear();
           return;
         }
       });
