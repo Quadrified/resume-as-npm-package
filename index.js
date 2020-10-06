@@ -16,6 +16,7 @@ var resumePrompts = {
 };
 
 function main() {
+  console.clear();
   console.log(' ');
   console.log(' ');
   resumeHandler();
