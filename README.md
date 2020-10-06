@@ -25,4 +25,4 @@ omer-resume
 
 ---
 
-Chao! 👋🏻
+Ciao! 👋🏻
