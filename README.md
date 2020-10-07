@@ -19,7 +19,7 @@ omer-resume
 
 ### Screenshot
 
-<img src="https://github.com/Quadrified/resume-as-npm-package/blob/main/assets/Screenshot%202020-10-07%20at%2011.45.30%20PM.png" alt="alt-screenshot" align="center"></img>
+<img src="./assets/Screenshot%202020-10-07%20at%2011.45.30%20PM.png" alt="alt-screenshot" align="center"></img>
 
 ---
 
