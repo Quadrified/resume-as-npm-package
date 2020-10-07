@@ -29,6 +29,5 @@ omer-resume
 <i>Also, a special thanks to [@sksaifuddin](https://github.com/sksaifuddin) for being an inspiration to do this mini-project!
 </i>
 
----
 
 Ciao! 👋🏻
